@@ -8,7 +8,7 @@ Readme.txt
 
 -------------------------------------------------------------------------------------
 .intro
-Questo è un progetto di test per provare qualcosa in c# e asp.net.
+Just a test project to try something about c# and asp.net
 
 
 
@@ -30,7 +30,7 @@ Accordion_Simple, TryAjax, Default
 
 -------------------------------------------------------------------------------------
 .links
-[.NET.AJAX comnpoonent]
+[.NET.AJAX comnponent]
 http://www.asp.net/ajaxlibrary/act.ashx
 
 [.NET.AJAX examples]
